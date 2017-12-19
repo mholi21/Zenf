@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6d1068c3f9f4cd34a9f445f1ef1b9720
+timeCreated: 1485029426
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FISH&CHIPS
+  fontNames:
+  - FISH&CHIPS
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
